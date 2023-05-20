@@ -1,0 +1,34 @@
+.box {
+  display: flex;
+  max-width: 1440px;
+  height: 100px;
+  flex-direction: row;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.suitcase {
+  width: 50px;
+  margin: 30px;
+  font-size: 20px;
+}
+.text {
+  font-size: 20px;
+}
+.coupon {
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  padding: 20px;
+  border-color: black;
+}
+.block {
+  display: flex;
+  justify-content: space-between;
+}
+.result {
+  font-size: 20px;
+  font-weight: 800;
+}
